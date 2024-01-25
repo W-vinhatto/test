@@ -71,6 +71,8 @@ h1{
     position: absolute;
     width: 20px;
     z-index: 10;
+
+    border-radius: 7px;
 }
 
 .slider li:nth-child(1) label {
